@@ -1,0 +1,8 @@
+{
+  "name": "sitaru-app",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
